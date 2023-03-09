@@ -37,10 +37,10 @@
 ## Overview
 
 1440x1080:
-![screenshot](https://live.staticflickr.com/65535/52733713040_f78ec9cf5b.jpg)
+![screenshot](https://live.staticflickr.com/65535/52736790474_f2d564acd5.jpg)
 
 768x1024:
-![screenshot](https://live.staticflickr.com/65535/52733789523_faecb9d6b3_n.jpg)
+![screenshot](https://live.staticflickr.com/65535/52736790464_6b44c818d6_w.jpg)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
@@ -54,7 +54,6 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - [React](https://reactjs.org/)
-- [Mui](https://mui.com/)
 
 ## Features
 
