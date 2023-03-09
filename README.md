@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">404 scarecrow error page</h1>
+<h1 align="center">Recipe-Blog</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://404-not-found-siv7.vercel.app/">
+    <a href="https://recipe-blog-lemon.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/JoZeng/404-not-found">
+    <a href="https://github.com/JoZeng/Recipe-Blog">
       Solution
     </a>
     <span> | </span>
@@ -27,7 +27,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
+- [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
@@ -54,6 +54,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - [React](https://reactjs.org/)
+- [Mui](https://mui.com/)
 
 ## Features
 
