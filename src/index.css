@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 1.6rem;
+  width: 100%;
+}
+
+button {
+  all: unset;
+  cursor: pointer;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+#root {
+  min-height: 100%;
+}

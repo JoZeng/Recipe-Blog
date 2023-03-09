@@ -1,0 +1,59 @@
+.section3 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  margin-top: 1.5rem;
+}
+
+.container-section3-texts {
+  display: flex;
+  gap: 15px;
+}
+
+.container-section-texts-number {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  background: #f2994a;
+  border-radius: 6px;
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 2.4rem;
+  line-height: 3.2rem;
+  color: #ffffff;
+}
+
+.container-section3-texts p {
+  max-width: 528px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 2rem;
+  color: #000000;
+}
+
+.section3 span {
+  text-decoration: none;
+  font-family: "Montserrat";
+  font-style: italic;
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 150%;
+  color: #bdbdbd;
+}
+
+@media (max-width: 375px) {
+  .container-section3-texts p {
+    max-width: 300px;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.6rem;
+    line-height: 2rem;
+    color: #000000;
+  }
+}
