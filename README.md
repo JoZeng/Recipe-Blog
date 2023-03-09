@@ -39,7 +39,7 @@
 1440x1080:
 ![screenshot](https://live.staticflickr.com/65535/52736790474_f2d564acd5.jpg)
 
-768x1024:
+374x774:
 ![screenshot](https://live.staticflickr.com/65535/52736790464_6b44c818d6_w.jpg)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
