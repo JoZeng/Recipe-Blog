@@ -1,23 +1,19 @@
 .section1 {
-  display: flex;
   margin-top: 43px;
 }
 
 .section1-img img {
-  width: 969px;
-  height: 444px;
+  width: 100%;
+  display: flex;
 }
 
 @media (max-width: 375px) {
   .section1 {
     display: flex;
-    width: 200px;
-    height: 202px;
     margin-top: 2.2rem;
   }
 
   .section1-img img {
-    width: 352px;
-    height: 213.83px;
+    width: 100%;
   }
 }

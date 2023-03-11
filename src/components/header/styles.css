@@ -1,7 +1,6 @@
 .container-header {
   display: flex;
   flex-direction: column;
-  position: relative;
   right: 210px;
   gap: 12px;
   margin-top: 52px;
