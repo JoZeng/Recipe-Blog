@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">404 scarecrow error page</h1>
+<h1 align="center">Recipe-Blog</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://404-not-found-siv7.vercel.app/">
+    <a href="https://recipe-blog-lemon.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/JoZeng/404-not-found">
+    <a href="https://github.com/JoZeng/Recipe-Blog">
       Solution
     </a>
     <span> | </span>
@@ -27,7 +27,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
+- [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
@@ -37,10 +37,10 @@
 ## Overview
 
 1440x1080:
-![screenshot](https://live.staticflickr.com/65535/52733713040_f78ec9cf5b.jpg)
+![screenshot](https://live.staticflickr.com/65535/52736790474_f2d564acd5.jpg)
 
-768x1024:
-![screenshot](https://live.staticflickr.com/65535/52733789523_faecb9d6b3_n.jpg)
+374x774:
+![screenshot](https://live.staticflickr.com/65535/52736790464_6b44c818d6_w.jpg)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
