@@ -1,7 +1,6 @@
 .container-header {
   display: flex;
   flex-direction: column;
-  right: 210px;
   gap: 12px;
   margin-top: 52px;
 }
@@ -29,6 +28,12 @@
   font-size: 1.4rem;
   line-height: 1.7rem;
   color: #4f4f4f;
+}
+
+@media (max-width: 1440px) {
+  .container-header {
+    width: 60%;
+  }
 }
 
 @media (max-width: 375px) {
